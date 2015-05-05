@@ -1,0 +1,22 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	background: #FAFAFA;
+}
+
+.content {
+	width: 28%;
+	height: 120px;
+	background-color: #3436FF;
+	text-align: center;
+	overflow: hidden;
+}
+
+.content span {
+	color: #fff;
+	background-color: inherit;
+	font-size: 46px;
+	font-family: Impact, Charcoal, sans-serif;
+	position: relative;
+	top: 85px;
+}

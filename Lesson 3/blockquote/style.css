@@ -1,0 +1,31 @@
+.blockquote {
+float: left;
+}
+
+.left-arrow {
+background: url(img/left.png);
+width: 40px;
+height: 34px;
+float: left;
+position: relative;
+top: 5px;
+}
+
+.message {
+float: left;
+margin: 10px;
+}
+
+blockquote {
+padding: 0px;
+margin: 0px;
+}
+
+.right-arrow {
+background: url(img/right.png);
+width: 40px;
+height: 34px;
+float: left;
+position: relative;
+top: 75px;
+}
